@@ -1,5 +1,6 @@
 // defines pins numbers
 
+
 const int trigPin = 9;
 const int echoPin = 10;
 const int buzzer=3;
