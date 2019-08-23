@@ -5,11 +5,10 @@
 #include <ESP8266HTTPClient.h>
 #include <SoftwareSerial.h>
 
-#define WIFI_SSID "VINNWiFi_7365"
-#define WIFI_PASSWORD "80005959"
-#define FIREBASE_HOST "iot-water-monitoring.firebaseio.com"
-#define FIREBASE_AUTH "Z63iYbiH37fMABwCi8J2FUreVnL7ochUacuFhcYE"
-
+#define WIFI_SSID "Insert WiFi ID here"
+#define WIFI_PASSWORD "Insert WiFi password here"
+#define FIREBASE_HOST "Inser Firebase Host here"
+#define FIREBASE_AUTH "Insert Firebase Auth here"
 
 int timezone=3*3600;
 int dst=0;
