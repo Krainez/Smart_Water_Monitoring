@@ -7,7 +7,7 @@
 
 #define WIFI_SSID "Insert WiFi ID here"
 #define WIFI_PASSWORD "Insert WiFi password here"
-#define FIREBASE_HOST "Inser Firebase Host here"
+#define FIREBASE_HOST "Insert Firebase Host here"
 #define FIREBASE_AUTH "Insert Firebase Auth here"
 
 int timezone=3*3600;
